@@ -1,0 +1,87 @@
+.searchBar {
+  display: flex;
+  flex-wrap : wrap;
+  width : 400px;
+  height:  30px;
+  background-color: pink;
+  margin-left: 30px;
+}
+
+@media only screen and (max-width: 600px) {
+  .searchBar{
+    display:flex;
+    width: 0px;
+    background-color: red;  
+    }
+}
+
+@media only screen and (min-width: 1400px) {
+  .searchBar{
+    display: flex;
+    flex-wrap : wrap;
+    width : 700px;
+    height:  30px;
+    background-color: pink;
+    margin-left: 30px; 
+    }
+}
+
+ 
+  
+  /* .labelValues{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .addLabeContentAlignment{
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    height: 250px;
+    overflow-y: scroll;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+  }
+  
+  .LabelTags{
+    height: 480px;
+    background-color: pink;
+    overflow-y: scroll;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+  }
+  
+  .noOfLabels{
+    padding: 4px 4px;
+    display: flex;
+    align-items: center;
+    width: 110;
+    border-radius: 0;
+    background-color:lime ;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap:wrap;
+    margin-left:5px;
+    margin-top:4px
+  }
+  
+  .LabelDrawerAlignment{
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  
+  .mappingLabelId{
+    display: flex;
+    align-items: center;
+    max-width:  '60%';
+    margin-left:300;
+    flex-direction:  column;
+    flex-wrap: wrap;
+    margin-top: 300px;
+  } */

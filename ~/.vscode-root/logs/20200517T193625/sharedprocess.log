@@ -1,0 +1,9 @@
+[2020-05-17 19:36:29.233] [sharedprocess] [info] main {"machineId":"58fdf0890072dced4d9045dc37c09d2e6e887be6820bb3a153ffa555c5f89612","windowId":2}
+[2020-05-17 19:36:29.374] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/root/Desktop/bookstore/bookstore/~/.vscode-root/User/snippets'
+[2020-05-17 19:37:09.318] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-05-18 07:36:32.217] [sharedprocess] [info] Installing extension: formulahendry.auto-rename-tag
+[2020-05-18 07:36:32.745] [sharedprocess] [info] Downloaded extension: formulahendry.auto-rename-tag /tmp/430c74fc-a771-4403-a9ac-91f8ff55945d
+[2020-05-18 07:36:32.986] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.formulahendry.auto-rename-tag-0.1.3: formulahendry.auto-rename-tag
+[2020-05-18 07:36:32.986] [sharedprocess] [info] Renamed to /root/.vscode/extensions/formulahendry.auto-rename-tag-0.1.3
+[2020-05-18 07:36:32.987] [sharedprocess] [info] Installation completed. formulahendry.auto-rename-tag
+[2020-05-18 07:36:33.061] [sharedprocess] [info] Extensions installed successfully: formulahendry.auto-rename-tag
