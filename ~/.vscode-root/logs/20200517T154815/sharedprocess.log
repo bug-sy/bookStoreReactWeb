@@ -1,0 +1,9 @@
+[2020-05-17 15:48:20.203] [sharedprocess] [info] main {"machineId":"58fdf0890072dced4d9045dc37c09d2e6e887be6820bb3a153ffa555c5f89612","windowId":2}
+[2020-05-17 15:48:21.631] [sharedprocess] [info] Deleted from disk formulahendry.auto-rename-tag /root/.vscode/extensions/formulahendry.auto-rename-tag-0.1.2
+[2020-05-17 15:49:00.228] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-05-20 03:48:27.560] [sharedprocess] [info] Installing extension: wallabyjs.quokka-vscode
+[2020-05-20 03:48:29.972] [sharedprocess] [info] Downloaded extension: wallabyjs.quokka-vscode /tmp/9b040a09-f8a7-4d2e-8295-c70fb29eca19
+[2020-05-20 03:48:33.278] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.wallabyjs.quokka-vscode-1.0.290: wallabyjs.quokka-vscode
+[2020-05-20 03:48:33.311] [sharedprocess] [info] Renamed to /root/.vscode/extensions/wallabyjs.quokka-vscode-1.0.290
+[2020-05-20 03:48:33.314] [sharedprocess] [info] Installation completed. wallabyjs.quokka-vscode
+[2020-05-20 03:48:33.423] [sharedprocess] [info] Extensions installed successfully: wallabyjs.quokka-vscode
