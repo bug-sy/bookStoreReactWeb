@@ -7,10 +7,13 @@ import Button from "@material-ui/core/Button";
 import Typography from "@material-ui/core/Typography";
 import Paper from "@material-ui/core/Paper";
 import '../styling/books.css'
+import { MEALS } from '../dummydata/DummyData';
 
 
 export default function Books() {
 
+
+  const availableMeals = MEALS
 
   return (
     <div className = "bookContainer">
@@ -18,11 +21,14 @@ export default function Books() {
       <div >
         
           <Card >
-          < div className = "image" >
-            <Typography >
-              Hi
-            </Typography>
-            </div>
+          
+          <img 
+      src = { availableMeals[0].imageUrl }
+      alt = "new"
+      style ={{ backgroundColor : "blue" }}
+      className = "image"
+      />
+            
           </Card>
         
         <div className = "content">
@@ -43,7 +49,7 @@ export default function Books() {
       </div>
       <div className = "cardbutton">
         <Card raised={true} >
-          <div className = "pos" >
+          <div className = "pos" onClick = { () => console.log(availableMeals[0].imageUrl) } >
             {'Add to Cart'}
           </div>
         </Card>
